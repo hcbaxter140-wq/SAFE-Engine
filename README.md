@@ -1,6 +1,6 @@
 # SAFE (Sector Adaptive Fundamental Engine)
 
-##Overview:
+## Overview:
 S.A.F.E. is a Python and Excel-based equity screener I've created to automate my static financial analysis on companies
 
 As a Finance undergrad, minoring in Economics, my priority is to spend my time manually scanning 10-Ks and mapping out 3-statment cash flow models. 
